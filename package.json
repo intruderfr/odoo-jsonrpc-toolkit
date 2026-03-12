@@ -1,0 +1,20 @@
+{
+  "name": "odoo-jsonrpc-toolkit",
+  "version": "0.1.0",
+  "description": "Lightweight Node.js client for Odoo ERP JSON-RPC API",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/client.test.js",
+    "example": "node examples/basic-usage.js"
+  },
+  "keywords": ["odoo", "erp", "json-rpc", "api", "client", "crm"],
+  "author": "Aslam Ahamed",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/intruderfr/odoo-jsonrpc-toolkit"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
